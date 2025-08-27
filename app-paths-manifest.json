@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/fuar-asistani/(chat)/page": "app/fuar-asistani/(chat)/page.js",
+  "/fuar-asistani/(chat)/chat/[id]/page": "app/fuar-asistani/(chat)/chat/[id]/page.js",
+  "/fuar-asistani/new/page": "app/fuar-asistani/new/page.js"
+}

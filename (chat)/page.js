@@ -1,0 +1,15 @@
+const CHUNK_PUBLIC_PATH = "server/app/fuar-asistani/(chat)/page.js";
+const runtime = require("../../../chunks/ssr/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/ssr/_2bfd68._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_46e268._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_tailwind-merge_dist_bundle-mjs_mjs_6bc68a._.js");
+runtime.loadChunk("server/chunks/ssr/_674d08._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_zod_v3_ebda43._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_zod-to-json-schema_dist_esm_6d5873._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_@upstash_redis_ea4b67._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_openai_16544c._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_tr46_1a859a._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_e42d05._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_formdata-node_lib_esm_fileFromPath_f08828.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/fuar-asistani/(chat)/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/ai/rsc/dist/rsc-server.mjs [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/lib/chat/actions.tsx [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/fuar-asistani/(chat)/page { COMPONENT_0 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", COMPONENT_1 => \"[project]/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", COMPONENT_2 => \"[project]/app/fuar-asistani/(chat)/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", COMPONENT_3 => \"[project]/app/fuar-asistani/(chat)/page.tsx [app-rsc] (ecmascript, Next.js server component)\", METADATA_4 => \"[project]/app/twitter-image.png.mjs { IMAGE => \\\"[project]/app/twitter-image.png [app-rsc] (static)\\\" } [app-rsc] (structured image object, ecmascript)\", METADATA_5 => \"[project]/app/opengraph-image.png.mjs { IMAGE => \\\"[project]/app/opengraph-image.png [app-rsc] (static)\\\" } [app-rsc] (structured image object, ecmascript)\" } [app-rsc] (ecmascript) <facade>", CHUNK_PUBLIC_PATH).exports;

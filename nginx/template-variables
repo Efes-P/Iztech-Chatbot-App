@@ -1,0 +1,3 @@
+map $host $nginx_host {
+  default "$NGINX_HOST";
+}
